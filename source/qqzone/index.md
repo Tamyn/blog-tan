@@ -14,4 +14,4 @@ aplayer:
 highlight_shrink:
 top_single_background:
 ---
-点开这个：https://user.qzone.qq.com/2021139711/photo/V50Mrs1v3DzqRW0Ft2rW04XswA2QSblX/
+点开这个：https://user.qzone.qq.com/
