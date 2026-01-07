@@ -49,12 +49,3 @@
       image:
         - #https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMWaM7OR1dwoaEMQbddW8n5OUsKytgAAhrJMRtSUXFSKBXsxOdErogBAAMCAAN5AAM2BA.png
         - #111
-
-- class_name: 跳转至QQ空间
-  path_name: /qqzone
-  type: 1
-  description: 懒得做了，直接跳转到QQ空间看看吧
-  top_link: /album
-  top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
