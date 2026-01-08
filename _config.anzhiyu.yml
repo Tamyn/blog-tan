@@ -248,12 +248,12 @@ post_copyright:
 
 # Sponsor/reward
 reward:
-  enable: true
+  enable: false
   QR_code:
-    - img: https://cdn-fusion.imgcdn.store/i/2025/Mun2hWPKBtFSK4UN.png
+    - img: https://free.picui.cn/free/2026/01/02/69577ef01a016.png
       link:
       text: 微信
-    - img: https://img.617171.xyz/file/AgACAgQAAyEGAAScPoQGAAMdaM7Ut6mPtjjFYx3fksPxwxp2zaUAAiPJMRtSUXFSmCKzqw5HJf8BAAMCAAN5AAM2BA.png
+    - img: https://free.picui.cn/free/2026/01/02/69577ef01a016.png
       link:
       text: 支付宝
 
@@ -1055,7 +1055,7 @@ home_top:
   timemode: date #date/updated
   title: 于细微处积累
   subTitle: 于坚持中成长。
-  siteText: blog.sutan.cfd
+  siteText: blog.617171.xyz
   category:
     - name: 前端
       path: /categories/前端/
